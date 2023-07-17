@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Code Interpreter DIY",
+  "description": "DIY Code Interpreter in Chrome",
+  "permissions": ["sidePanel", "scripting", "tabs", "windows"],
+  "host_permissions": ["<all_urls>"],
+  "side_panel": {
+    "default_path": "sidepanel.html"
+  },
+  "version": "0.0.1"
+}
