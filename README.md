@@ -3,7 +3,7 @@
 <p align="center">
   <a href="http://www.youtube.com/watch?v=wL7ssg4N7Bo"><img src="http://img.youtube.com/vi/wL7ssg4N7Bo/maxresdefault.jpg" width="640" /></a>
   <br>
-  Click the <strong>image</strong> to watch long video on YouTube. For short video on Twitter, <a href="[http://www.youtube.com/watch?v=ID](https://twitter.com/HaveFunWithAI/status/1681358161800839208?s=20)">click <strong>here</strong></a>.
+  Click the <strong>image</strong> to watch long video on YouTube. For short video on Twitter: https://twitter.com/HaveFunWithAI/status/1681358161800839208?s=20
 </p>
 
 **TL; DR**: ChatGPT meets JupyterLab in Chrome (connected by extension). 
