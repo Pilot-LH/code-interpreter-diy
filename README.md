@@ -2,9 +2,11 @@
 
 <p align="center">
   <a href="http://www.youtube.com/watch?v=wL7ssg4N7Bo"><img src="http://img.youtube.com/vi/wL7ssg4N7Bo/maxresdefault.jpg" width="640" /></a>
+  <br>
+  Click the <strong>image</strong> to watch long video on YouTube. For short video on Twitter, <a href="[http://www.youtube.com/watch?v=ID](https://twitter.com/HaveFunWithAI/status/1681358161800839208?s=20)">click <strong>here</strong></a>.
 </p>
 
-TL; DR: ChatGPT meets JupyterLab in Chrome (connected by extension). 
+**TL; DR**: ChatGPT meets JupyterLab in Chrome (connected by extension). 
 - ChatGPT brings chat/code interface backed by LLMs, as translator between human and computer. 
 - JupyterLab brings graphical I/O interface and customizable environment, has access to internet, local storage and local compute. 
 
@@ -38,7 +40,6 @@ TL; DR: ChatGPT meets JupyterLab in Chrome (connected by extension).
     - Go to Containers, run the container and get initial token in `Logs`
     - Go to localhost:3000 in Chrome, paste initial token to log in for the first time (then set up a password for future logins)
     - See [JupyterLab Documentation](https://jupyterlab.readthedocs.io/en/latest/) for more information
-- For use cases, see [Examples](#examples)
 
 <div align="center">
   <img src="assets/1-chat.png" width="400" />
